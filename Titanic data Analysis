@@ -1,0 +1,64 @@
+# Titanic Data Analysis 🚢
+
+## 📊 Project Overview
+This project performs **Exploratory Data Analysis (EDA)** and **Data Visualization** on the famous Titanic dataset. The goal is to analyze the dataset to uncover insights about the factors affecting passenger survival during the Titanic disaster.
+
+
+## ⚓ Dataset Description
+The Titanic dataset contains information about passengers on board the Titanic, including:
+- Passenger demographics (Age, Sex, etc.)
+- Ticket information (Class, Fare, Embarked port)
+- Survival status (Survived or Not)
+
+The dataset is commonly used for machine learning and data analysis tutorials.
+
+
+
+## 🚀 Features
+- Data Cleaning and Preprocessing
+- Statistical Summary
+- Visualizations:
+    - Distribution of Survivors
+    - Survival Rates by Gender, Class, Age Group
+    - Correlation Heatmap
+    - Histograms and Box Plots
+- Key Insights about factors influencing survival
+
+
+## 🛠️ Tools & Libraries
+- Python 3.x  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn (optional for preprocessing)
+
+
+
+## 📁 Project Structure
+
+
+├── titanic\_data\_analysis.ipynb  # Jupyter notebook with full analysis
+├── data/
+│   └── train.csv                # Titanic dataset file
+├── LICENSE.txt                  # License file
+├── README.md                    # Project description
+└── requirements.txt             # Required Python libraries
+
+## 📊 Example Visualization
+
+![Survival by Gender](https://seaborn.pydata.org/_images/seaborn-barplot-1.png)
+*Example: Survival rate comparison by gender.*
+
+
+## ✅ Conclusion
+
+This project helps us understand important factors such as age, gender, and class that affected survival rates in the Titanic disaster. It provides clear visual insights and serves as a great starting point for predictive modeling.
+
+
+
+## 📫 Contact
+
+For any questions or collaboration, contact me at:
+**Dilli Babu** – [dillibabu5757@gmail.com](mailto:dillibabu5757@gmail.com)
+
